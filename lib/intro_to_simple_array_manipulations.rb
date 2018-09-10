@@ -11,5 +11,5 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  array.pop(one, two)
+  array.pop("Stable Boy", "Sandor Clegane, aka The Mountain")
 end
