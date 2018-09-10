@@ -1,4 +1,4 @@
-def using_push(array, new_country)
-  array.push(next_country)
+def using_push(array, string)
+  array.push(string)
 end
   
